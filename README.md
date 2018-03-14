@@ -121,7 +121,7 @@ A través de la técnica del journey map, se identificarán los flujos principal
 
 ### BENCHMARCK
 
-
+![Benchmarck](assets/docs/benchmarck.jpg)
 
 ## **SÍNTESIS DE INFORMACIÓN**
 
