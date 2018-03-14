@@ -58,3 +58,44 @@ Según el observatorio ciudadano Lima "Cómo Vamos", el 75.6% de limeños se mov
 - Reducir y/o evitar las colas de recarga de la tarjeta.
 - Información relevante sobre cambios en el servicio.
 
+
+### ANÁLISIS DE LA ARQUITECTURA DE LA INFORMACIÓN DE LA APLICACIÓN:
+
+En el siguiente esquema, se muestra la arquitectura de la información de la aplicación.
+Las secciones en verde, son las que se repiten a lo largo de los flujos.
+Las de color rosado, las que se repiden parcialmente
+
+![Arquitectura](assets/docs/arquitectura.jpg)
+
+#### **Problemas principales**
+
+1. Contenido excesivo
+
+- Varios contenidos se repiten o llevan al mismo sitio, especialmente cuando se trata de ubicación.
+- Solo algunas secciones son realmente usadas.
+
+2. Deficiente priorización.
+
+- No se ha priorizados los flujos que los usuarios usarían.
+- No existe una jerarquía de contenido en los flujos.
+- No hay un orden claro de cómo se muestra el contenido. 
+
+3. Textos confusos.
+
+- Los títulos utilizados son confusos o técnicos.
+- Se usan nombres que los usuarios no usan regularmente.
+
+4. Deficiente información.
+
+- La información no es eficiente ni directa.
+- Hay mucho contenido irrelevante, como la parte de noticias y consejos.
+
+5. Funcionalidad
+
+- La ubicación suele fallar, aunque esté encendido el GPS del móvil.
+- Algunas funciones aparecen en dispositivos Android y otras en iPhone.
+
+
+### JOURNEY MAP
+
+A través de la técnica del journey map, se identificarán los flujos principales del usuarios, los puntos críticos que ocurren durante el proceso y las oportunidades de mejora.
