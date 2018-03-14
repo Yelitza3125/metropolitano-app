@@ -67,6 +67,8 @@ Las de color rosado, las que se repiden parcialmente
 
 ![Arquitectura](assets/docs/arquitectura.jpg)
 
+[Ver con detalle](https://drive.google.com/file/d/12ipZs8ePPwBkHq2oFus63_P5myYfb270/view?usp=sharing)
+
 #### **Problemas principales**
 
 1. Contenido excesivo
@@ -99,3 +101,27 @@ Las de color rosado, las que se repiden parcialmente
 ### JOURNEY MAP
 
 A través de la técnica del journey map, se identificarán los flujos principales del usuarios, los puntos críticos que ocurren durante el proceso y las oportunidades de mejora.
+
+1. **Cómo llegar.**
+
+![Estaciones](assets/docs/journey-map/destino.jpg)
+
+
+2. **Estaciones.**
+
+![Estaciones](assets/docs/journey-map/estaciones.jpg)
+
+3. **Recoger.**
+
+![Estaciones](assets/docs/journey-map/recarga.jpg)
+
+4. **Troncal.**
+
+![Estaciones](assets/docs/journey-map/troncal.jpg)
+
+
+## **SÍNTESIS DE INFORMACIÓN**
+
+### Usser persona.
+
+
