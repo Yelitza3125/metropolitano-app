@@ -119,9 +119,21 @@ A través de la técnica del journey map, se identificarán los flujos principal
 
 ![Estaciones](assets/docs/journey-map/troncal.jpg)
 
+### BENCHMARCK
+
+
 
 ## **SÍNTESIS DE INFORMACIÓN**
 
-### Usser persona.
+### **User persona.**
 
+Representa al usuario que utiliza de manera frecuente el servicio del Metropolitano.
+
+![User persona](assets/docs/user/user-persona.jpg)
+
+### **User secundario**
+
+Representa al usuario que utiliza de manera esporádica el servicio del Metropolitano y no tiene mucho conocimiento de ello.
+
+![User secundario](assets/docs/user/user-secundaria.jpg)
 
