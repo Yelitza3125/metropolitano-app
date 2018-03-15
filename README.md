@@ -137,3 +137,34 @@ Representa al usuario que utiliza de manera esporádica el servicio del Metropol
 
 ![User secundario](assets/docs/user/user-secundaria.jpg)
 
+
+## **PROPUESTA DE PRODUCTO**
+
+### **Card Sorting**
+
+Luego de analizar los problemas en la arquiectura de contenido de la aplicación actual, se propuso una nueva forma de organización en cuatro items principales: "Perfil", "Rutas", "Mi tarjeta" y "Cómo llegar". 
+Se utilizó el card sorting mixto para que los usuarios propusieran nuevos contenidos de los ofrecidos o nuevas secciones.
+En los siguientes resultados, los cuadros con color naranja, son los añadidos por el usuario.
+
+1. **Franchesca**
+
+![Franchesca](assets/docs/card-sorting/franchesca.jpg)
+
+2. **María Teresa**
+
+![Maria Teresa](assets/docs/card-sorting/maria-teresa.jpg)
+
+3. **Ari**
+
+![Ari](assets/docs/card-sorting/ari.jpg)
+
+4. **Silvia**
+
+![Silvia](assets/docs/card-sorting/silvia.jpg)
+
+#### Conclusiones del Card Sorting.
+
+Este es el esquema que se obtuvo como resultado. Solo se han puesto los contenidos donde hubo una mayor coincidencia. 
+
+![Resultado](assets/docs/card-sorting/resultado.jpg)
+
