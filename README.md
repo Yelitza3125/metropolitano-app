@@ -168,3 +168,6 @@ Este es el esquema que se obtuvo como resultado. Solo se han puesto los contenid
 
 ![Resultado](assets/docs/card-sorting/resultado.jpg)
 
+### Propuesta de arquitectura de la información
+
+![Propuesta](assets/docs/arquitecture-dos.jpg)
