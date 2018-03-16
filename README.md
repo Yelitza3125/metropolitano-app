@@ -50,6 +50,17 @@ A cada usuaruo se le pidió ingresar a cada sección de la aplicación, realizar
 
 ![Aracely](assets/docs/entrevistas/aracely.jpg)
 
+##### Encuestas.
+
+**Conclusiones de la encuesta**
+
+- La mayoría de los usuarios recarga su tarjeta en las máquinas de las estaciones y no utiliza mucho el servicio de recarga externa en tiendas.
+- El 60% de los usuarios no ubica con facilidad las estaciones del Metropolitano.
+- El lenguaje que utiliza la empresa no es la misma que manejan los usuarios o es desconocida por ellos.
+- El 50% de los usuarios conocían de la aplicación, pero la experiencia fue pésima y no encontraban información relevante que les ayudara.
+- Cuando se les pidió que sugirieran qué funcionalidad quisieran que tenga la app, ellos consideraron importante saber cómo llegar a su destino, saber de los cambios de horarios y poder cargar su tarjeta de manera virtual.
+
+![Encuesta](assets/docs/metropolitano.png)
 
 #### Objetivos del Usuario
 Según el observatorio ciudadano Lima "Cómo Vamos", el 75.6% de limeños se moviliza en transporte público o colectivo (Metropolitano, Metro de Lima, Corredores Complementarios, bus, cúster, combi y colectivo informal,), el 25% de la población gasta más de 2 horas al día en trasladarse a su destino y el 49% considera al transporte público como el principal problema de Lima.
