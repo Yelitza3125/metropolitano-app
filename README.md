@@ -162,6 +162,14 @@ En los siguientes resultados, los cuadros con color naranja, son los añadidos p
 
 ![Silvia](assets/docs/card-sorting/silvia.jpg)
 
+5. **Aracely**
+
+![Aracely](assets/docs/card-sorting/aracely.jpg)
+
+6. **Betsy**
+
+![Betsy](assets/docs/card-sorting/betsy.jpg)
+
 #### Conclusiones del Card Sorting.
 
 Este es el esquema que se obtuvo como resultado. Solo se han puesto los contenidos donde hubo una mayor coincidencia. 
