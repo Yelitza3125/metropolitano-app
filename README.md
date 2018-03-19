@@ -50,9 +50,18 @@ A cada usuaruo se le pidió ingresar a cada sección de la aplicación, realizar
 
 ![Aracely](assets/docs/entrevistas/aracely.jpg)
 
-##### Encuestas.
 
-**Conclusiones de la encuesta**
+**Conclusiones de la entrevista**
+
+- La aplicación es confusa de usar.
+- Los contenidos de los flujos no son los que esperaban ver.
+- Contiene información poco relevante, como la sección de noticias y "Buen pasajero".
+- El diseño no es agradable y no permite una fácil identificación por parte del usuario.
+
+
+##### Encuestas virtuales.
+
+**Conclusiones de la encuesta virtual**
 
 - La mayoría de los usuarios recarga su tarjeta en las máquinas de las estaciones y no utiliza mucho el servicio de recarga externa en tiendas.
 - El 60% de los usuarios no ubica con facilidad las estaciones del Metropolitano.
@@ -132,6 +141,16 @@ A través de la técnica del journey map, se identificarán los flujos principal
 
 ### BENCHMARCK
 
+Para realizar el Benchmarck, se tomó en cuenta a productos que tuvieran funcionalidades de guía al usuario en sus viajes diarios de transporte. De aplicaciones como Moovit o Tu Ruta, que funcionan para todo tipo de transporte público, se indagó en como guiaban al usuario en la búsqueda de rutas. De aplicaciones como el del Metro de Santiago que funciona para un tipo de servicio en específico, se indagó sus flujos y como integraba el uso de la tarjeta para el pago del pasaje.
+
+##### Conclusiones del Benchmarck
+
+- De los otros productos encontrados, todos tienen la funcionalidad de guiar al usuario desde su localización, el Metropolitano tiene una restricción de que la ubicación es a partir de las estaciones.
+
+- Solo dos de los productos tienen un sistemas de alertas o nitificaciones al usuario sobre la ruta elegida. 
+
+- Dos de los productos tienen una bonificación al usuario por el uso de la aplicación.
+
 ![Benchmarck](assets/docs/benchmarck.jpg)
 
 ## **SÍNTESIS DE INFORMACIÓN**
@@ -183,10 +202,45 @@ En los siguientes resultados, los cuadros con color naranja, son los añadidos p
 
 #### Conclusiones del Card Sorting.
 
+- Eliminar los flujos innecesarios.
+- Reducir los pasos para realizar una tarea.
+- Conectar flujos y tareas comunes. 
+
 Este es el esquema que se obtuvo como resultado. Solo se han puesto los contenidos donde hubo una mayor coincidencia. 
 
 ![Resultado](assets/docs/card-sorting/resultado.jpg)
 
 ### Propuesta de arquitectura de la información
 
+Se redujo el flujo de la aplicación anterior a 4 flujos principales, que integren las principales tareas que realiza el usuario: búsqueda de rutas, información sobre los horarios y servicios, recarga de tarjeta virtual y notifiaciones sobre los servicios que el usuario usa con frecuencia. 
+
 ![Propuesta](assets/docs/arquitecture-dos.jpg)
+
+### Paper prototyping:
+
+[Ver con detalle](https://drive.google.com/file/d/12ipZs8ePPwBkHq2oFus63_P5myYfb270/view?usp=sharing)
+
+
+#### Resultados del testing del Paper Prototyping
+
+Se realizó el test con 3 personas. Los usuarios tenían las siguientes tareas:
+
+1. Recargar la tarjeta.
+
+- Les pareció util, pero preguntaron como sería la vinculación con la tarjeta. Se respondió que habría un trámite anterior con el banco.
+
+2. Establecer una ruta de destino.
+
+- Se tenían dos opciones para la sección de "Mis rutas": "Cómo llegar" y "Planificar mi ruta". Esta segunda opción no era entendida por los usuarios, el nombre les causaba confusión. En cambio, cómo llegar sí significaba para ellos que descubrirían como llegar a su destino.
+
+- Les pareció útil la opción de ingresar un origen diferente al que detectaba el GPS, porque no siempre buscan una ruta desde el sitio actual donde están.
+
+3. Programar sus notificaciones.
+
+- Les pareció una opción interesante, pero cuestionaron que querían poder programar alarmas de varios servicios a la vez. 
+
+### Prototipo de alta fidelidad.
+
+Teniendo en cuenta los resultados del paper prototyping, se decidió no dividir el flujo de "Cómo llegar" y Planificar mi ruta", si no unirlos como una opción extra del usuario al momento de realizar el flujo. 
+
+[Metropolitano app](https://drive.google.com/file/d/12ipZs8ePPwBkHq2oFus63_P5myYfb270/view?usp=sharing)
