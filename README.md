@@ -153,6 +153,7 @@ Para realizar el Benchmarck, se tomó en cuenta a productos que tuvieran funcion
 
 ![Benchmarck](assets/docs/benchmarck.jpg)
 
+
 ## **SÍNTESIS DE INFORMACIÓN**
 
 ### **User persona.**
@@ -215,6 +216,11 @@ Este es el esquema que se obtuvo como resultado. Solo se han puesto los contenid
 Se redujo el flujo de la aplicación anterior a 4 flujos principales, que integren las principales tareas que realiza el usuario: búsqueda de rutas, información sobre los horarios y servicios, recarga de tarjeta virtual y notifiaciones sobre los servicios que el usuario usa con frecuencia. 
 
 ![Propuesta](assets/docs/arquitecture-dos.jpg)
+
+### Business Model Canvas de la propuesta de producto
+
+![Business Model Canvas](assets/docs/model-canvas.jpg)
+
 
 ### Paper prototyping:
 
