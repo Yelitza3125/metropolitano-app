@@ -177,6 +177,8 @@ Luego de analizar los problemas en la arquiectura de contenido de la aplicación
 Se utilizó el card sorting mixto para que los usuarios propusieran nuevos contenidos de los ofrecidos o nuevas secciones.
 En los siguientes resultados, los cuadros con color naranja, son los añadidos por el usuario.
 
+![Imágenes del card sorting](assets/docs/card-sorting/card-sorting.jpg)
+
 1. **Franchesca**
 
 ![Franchesca](assets/docs/card-sorting/franchesca.jpg)
@@ -245,8 +247,26 @@ Se realizó el test con 3 personas. Los usuarios tenían las siguientes tareas:
 
 - Les pareció una opción interesante, pero cuestionaron que querían poder programar alarmas de varios servicios a la vez. 
 
+
+### Feature List
+
+- Registro de usuario nuevo
+- Inicio de sesión
+- Mis servicios: Regulares, Expresos y Alimentadores; para ver los horarios de servicio y estaciones.
+- Mi tarjeta: recarga virtual a través de una cuenta en el Banco de la Nación o el BCP, previo acuerdo con el banco.
+- Mis rutas: Guía al usuario de acuerdo a su origen y destino y ofrece las diversas rutas que puede tomar.
+- Mis notificaciones: Alarmas programables para el usuario que desee saber posibles cambios de horario o problemas que surjan con los servicios que utiliza.
+
+### User Flow
+
+El usuario puede:
+
+[Detalle del user flow](https://docs.google.com/presentation/d/1A1Ju_Ly4ovMlHSL7YFyOqQF-3vnYLSmipUaP-e4Ui78/edit?usp=sharing)
+
+
 ### Prototipo de alta fidelidad.
 
 Teniendo en cuenta los resultados del paper prototyping, se decidió no dividir el flujo de "Cómo llegar" y Planificar mi ruta", si no unirlos como una opción extra del usuario al momento de realizar el flujo. 
 
 [Metropolitano app](https://drive.google.com/file/d/12ipZs8ePPwBkHq2oFus63_P5myYfb270/view?usp=sharing)
+
