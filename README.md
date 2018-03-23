@@ -11,7 +11,7 @@ Brindar una aplicación que acompañe y guie a los usuarios en su viaje e increm
 
 ### ANÁLISIS ACTUAL
 
-#### Objetivos del Negocio
+#### **Objetivos del Negocio**
 
 El Metropolitano es el primer transporte público, urbano y masivo de Lima que atiende alrededor de 700 mil viajes diarios.
 El sistema esta compuesto por Buses de Transporte Rápido - BRT  de alta capacidad, corredores exclusivos y estaciones.
@@ -22,9 +22,9 @@ Además cuenta con el servicio de buses Alimentadores que llegan desde la estaci
 - Orientar al usuario en el uso del Metropolitano.
 
 
-#### Actividades de Investigación realizada con los usuarios.
+### **Actividades de Investigación realizada con los usuarios**
 
-##### Entrevistas personales.
+#### Entrevistas personales.
 
 Se realizaron entrevistas a 5 usuarios, en las que se les pidió que usaran la aplciación actual del Metropolitano y contaran su experiencia. Además de detalles de cómo usan regularmente el servicio.
 
@@ -51,7 +51,7 @@ A cada usuaruo se le pidió ingresar a cada sección de la aplicación, realizar
 ![Aracely](assets/docs/entrevistas/aracely.jpg)
 
 
-**Conclusiones de la entrevista**
+**Conclusiones de las entrevistas**
 
 - La aplicación es confusa de usar.
 - Los contenidos de los flujos no son los que esperaban ver.
@@ -59,7 +59,7 @@ A cada usuaruo se le pidió ingresar a cada sección de la aplicación, realizar
 - El diseño no es agradable y no permite una fácil identificación por parte del usuario.
 
 
-##### Encuestas virtuales.
+#### **Encuesta virtual**
 
 **Conclusiones de la encuesta virtual**
 
@@ -71,7 +71,8 @@ A cada usuaruo se le pidió ingresar a cada sección de la aplicación, realizar
 
 ![Encuesta](assets/docs/metropolitano.png)
 
-#### Objetivos del Usuario
+
+### Objetivos del Usuario
 Según el observatorio ciudadano Lima "Cómo Vamos", el 75.6% de limeños se moviliza en transporte público o colectivo (Metropolitano, Metro de Lima, Corredores Complementarios, bus, cúster, combi y colectivo informal,), el 25% de la población gasta más de 2 horas al día en trasladarse a su destino y el 49% considera al transporte público como el principal problema de Lima.
 
 - Localizar las estaciones de acuerdo a su lugar de ubicación.
@@ -91,34 +92,34 @@ Las de color rosado, las que se repiden parcialmente
 
 #### **Problemas principales**
 
-1. Contenido excesivo
+1. **Contenido excesivo**
 
 - Varios contenidos se repiten o llevan al mismo sitio, especialmente cuando se trata de ubicación.
 - Solo algunas secciones son realmente usadas.
 
-2. Deficiente priorización.
+2. **Deficiente priorización.**
 
 - No se ha priorizados los flujos que los usuarios usarían.
 - No existe una jerarquía de contenido en los flujos.
 - No hay un orden claro de cómo se muestra el contenido. 
 
-3. Textos confusos.
+3. **Textos confusos.**
 
 - Los títulos utilizados son confusos o técnicos.
 - Se usan nombres que los usuarios no usan regularmente.
 
-4. Deficiente información.
+4. **Deficiente información.**
 
 - La información no es eficiente ni directa.
 - Hay mucho contenido irrelevante, como la parte de noticias y consejos.
 
-5. Funcionalidad
+5. **Funcionalidad**
 
 - La ubicación suele fallar, aunque esté encendido el GPS del móvil.
 - Algunas funciones aparecen en dispositivos Android y otras en iPhone.
 
 
-### JOURNEY MAP
+### **JOURNEY MAP**
 
 A través de la técnica del journey map, se identificarán los flujos principales del usuarios, los puntos críticos que ocurren durante el proceso y las oportunidades de mejora.
 
@@ -139,11 +140,11 @@ A través de la técnica del journey map, se identificarán los flujos principal
 
 ![Estaciones](assets/docs/journey-map/troncal.jpg)
 
-### BENCHMARCK
+### **BENCHMARCK**
 
 Para realizar el Benchmarck, se tomó en cuenta a productos que tuvieran funcionalidades de guía al usuario en sus viajes diarios de transporte. De aplicaciones como Moovit o Tu Ruta, que funcionan para todo tipo de transporte público, se indagó en como guiaban al usuario en la búsqueda de rutas. De aplicaciones como el del Metro de Santiago que funciona para un tipo de servicio en específico, se indagó sus flujos y como integraba el uso de la tarjeta para el pago del pasaje.
 
-##### Conclusiones del Benchmarck
+##### **Conclusiones del Benchmarck**
 
 - De los otros productos encontrados, todos tienen la funcionalidad de guiar al usuario desde su localización, el Metropolitano tiene una restricción de que la ubicación es a partir de las estaciones.
 
@@ -170,6 +171,12 @@ Representa al usuario que utiliza de manera esporádica el servicio del Metropol
 
 
 ## **PROPUESTA DE PRODUCTO**
+
+### Propuesta de arquitectura de la información
+
+Se redujo el flujo de la aplicación anterior a 4 flujos principales, que integren las principales tareas que realiza el usuario: búsqueda de rutas, información sobre los horarios y servicios, recarga de tarjeta virtual y notifiaciones sobre los servicios que el usuario usa con frecuencia. 
+
+![Propuesta](assets/docs/arquitecture-dos.jpg)
 
 ### **Card Sorting**
 
@@ -213,23 +220,19 @@ Este es el esquema que se obtuvo como resultado. Solo se han puesto los contenid
 
 ![Resultado](assets/docs/card-sorting/resultado.jpg)
 
-### Propuesta de arquitectura de la información
 
-Se redujo el flujo de la aplicación anterior a 4 flujos principales, que integren las principales tareas que realiza el usuario: búsqueda de rutas, información sobre los horarios y servicios, recarga de tarjeta virtual y notifiaciones sobre los servicios que el usuario usa con frecuencia. 
 
-![Propuesta](assets/docs/arquitecture-dos.jpg)
-
-### Business Model Canvas de la propuesta de producto
+### **Business Model Canvas de la propuesta de producto**
 
 ![Business Model Canvas](assets/docs/model-canvas.jpg)
 
 
-### Paper prototyping:
+### **Paper prototyping**
 
 [Ver con detalle](https://drive.google.com/file/d/12ipZs8ePPwBkHq2oFus63_P5myYfb270/view?usp=sharing)
 
 
-#### Resultados del testing del Paper Prototyping
+#### **Resultados del testing del Paper Prototyping**
 
 Se realizó el test con 3 personas. Los usuarios tenían las siguientes tareas:
 
@@ -248,6 +251,8 @@ Se realizó el test con 3 personas. Los usuarios tenían las siguientes tareas:
 - Les pareció una opción interesante, pero cuestionaron que querían poder programar alarmas de varios servicios a la vez. 
 
 
+## **Feedback e iteración**
+
 ### Feature List
 
 - Registro de usuario nuevo
@@ -257,16 +262,33 @@ Se realizó el test con 3 personas. Los usuarios tenían las siguientes tareas:
 - Mis rutas: Guía al usuario de acuerdo a su origen y destino y ofrece las diversas rutas que puede tomar.
 - Mis notificaciones: Alarmas programables para el usuario que desee saber posibles cambios de horario o problemas que surjan con los servicios que utiliza.
 
-### User Flow
 
-El usuario puede:
+### **Iteración de arquitectura de la información**
+
+Teniendo en cuenta los resultados del paper prototyping, se decidió no dividir el flujo de "Cómo llegar" y "Planificar mi ruta", y en cambio unirlos como una opción extra para usuario al momento de realizar el flujo. 
+También se decidió que el flujo de servios y estaciones estén juntos.
+Además, debido a sugerencias de usuarios, la programación de notificaciones se puede hacer seleccionando varios servicios a la vez, pero luego se deben responder los detalles de cada uno.
+
+
+### **User Flow**
+
+El usuario puede realizar los siguientes flujos:
+
+- Inicio de sesión y registro.
+- Búsqueda de rutas.
+- Información sobre servicios y horarios.
+- Recarga de su tarjeta.
+- Programación de notificaciones según los servicios que utiliza.
 
 [Detalle del user flow](https://docs.google.com/presentation/d/1A1Ju_Ly4ovMlHSL7YFyOqQF-3vnYLSmipUaP-e4Ui78/edit?usp=sharing)
 
 
-### Prototipo de alta fidelidad.
+## **Prototipo de alta fidelidad**
 
-Teniendo en cuenta los resultados del paper prototyping, se decidió no dividir el flujo de "Cómo llegar" y Planificar mi ruta", si no unirlos como una opción extra del usuario al momento de realizar el flujo. 
+[Metropolitano app](https://marvelapp.com/31gjhd0/screen/39881989)
 
-[Metropolitano app](https://drive.google.com/file/d/12ipZs8ePPwBkHq2oFus63_P5myYfb270/view?usp=sharing)
+## **Herramientas utilizadas**
 
+- Figma
+- Marvel
+- Adobe Ilustrator
