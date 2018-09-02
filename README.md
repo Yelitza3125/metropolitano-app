@@ -285,7 +285,7 @@ El usuario puede realizar los siguientes flujos:
 
 ## **Prototipo de alta fidelidad**
 
-[Metropolitano app](https://marvelapp.com/31gjhd0/screen/39881989)
+[Metropolitano app](https://invis.io/NVNU4YSQBMH)
 
 ## **Herramientas utilizadas**
 
