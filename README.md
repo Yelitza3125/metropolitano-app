@@ -8,6 +8,7 @@ El proyecto consiste en el re diseño de la aplicación del Metropolitano, para 
 
 [Laboratoria](http://laboratoria.la)
 
+
 ## OBJETIVO DEL PROYECTO
 
 Brindar una aplicación que acompañe y guie a los usuarios en su viaje e incrementar la confianza de los usuarios en el servicio.
