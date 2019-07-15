@@ -1,8 +1,14 @@
 # **METROPOLITANO APP**
 
-El proyecto consiste en el re diseño de la aplicación del Metropolitano, para mejorar funciones de accesibilidad, funcionalidad y experiencia de usuario. A través de un proceso de investigación y conocimiento del usuario, se identificó las necesidades principales y requerimientos a mejorar.
+El proyecto consiste en el re diseño de la aplicación del Metropolitano, para mejorar la accesibilidad, funcionalidad y experiencia de usuario. A través de un proceso de investigación y conocimiento del usuario, se identificó las necesidades principales y requerimientos a mejorar.
 
 ![metro-app](https://user-images.githubusercontent.com/32287220/61246914-99eb5780-a715-11e9-86d2-854d1c8330e4.png)
+
+## DESARROLLADO PARA
+
+[Laboratoria](http://laboratoria.la)
+
+***
 
 ## OBJETIVO DEL PROYECTO
 
