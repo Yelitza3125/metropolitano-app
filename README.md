@@ -2,7 +2,7 @@
 
 El proyecto consiste en el re diseño de la aplicación del Metropolitano, para mejorar la accesibilidad, funcionalidad y experiencia de usuario. A través de un proceso de investigación y conocimiento del usuario, se identificó las necesidades principales y requerimientos a mejorar.
 
-![metro-app](https://user-images.githubusercontent.com/32287220/61248473-c0f75880-a718-11e9-9629-24496dd87cf4.png
+![metro-app](https://user-images.githubusercontent.com/32287220/61248473-c0f75880-a718-11e9-9629-24496dd87cf4.png)
 
 ## DESARROLLADO PARA
 
