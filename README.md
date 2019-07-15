@@ -4,12 +4,11 @@ El proyecto consiste en el re diseño de la aplicación del Metropolitano, para 
 
 ![metro-app](https://user-images.githubusercontent.com/32287220/61248473-c0f75880-a718-11e9-9629-24496dd87cf4.png)
 
-## DESARROLLADO PARA
-
+## Desarrollado para
 [Laboratoria](http://laboratoria.la)
 
 
-## OBJETIVO DEL PROYECTO
+## Objetivo del proyecto
 
 Brindar una aplicación que acompañe y guie a los usuarios en su viaje e incrementar la confianza de los usuarios en el servicio.
 
